@@ -24,4 +24,5 @@ public class Livro{
 
     private String paginas;
 
+    private String review;
 }
